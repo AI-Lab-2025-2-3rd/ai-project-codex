@@ -5,4 +5,4 @@
 
 Developers: [@c-cys](https://github.com/c-cys) [@emusigi](https://github.com/emusigi)
 
-Presentation Slides: https://docs.google.com/presentation/d/17rN6SWl3EwzGe9CFc8KlVzDVEkYq_sv83UZ_FrXk7-o/edit?usp=sharing
+Presentation Slides: [Click](https://docs.google.com/presentation/d/17rN6SWl3EwzGe9CFc8KlVzDVEkYq_sv83UZ_FrXk7-o/edit?usp=sharing)
