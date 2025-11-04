@@ -5,4 +5,4 @@
 
 Developers: [@c-cys](https://github.com/c-cys) [@emusigi](https://github.com/emusigi)
 
-Presentation Slides: [COdeX Presentation.pdf](COdeX Presentation.pdf)
+Presentation Slides: ![COdeX Presentation.pdf](COdeX_Presentation.pdf)
